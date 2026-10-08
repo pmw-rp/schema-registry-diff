@@ -1,0 +1,4 @@
+/sr-compare
+*.test
+*.out
+.DS_Store
